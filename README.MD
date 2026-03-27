@@ -1,15 +1,15 @@
 # DTU Automatisk Timeoversigt
 
-Dette værktøj behandler dataudtræk fra Fusion for automatisk at beregne og fordele medarbejdertimer. Det giver et optimeret overblik over normtid, planlægningsgrader og sektionsopdelte opsummeringer.
+Dette værktøj er designet til at gøre arbejdet med tidsregistrering langt lettere. Det tager de rå-data fra Fusion og sørger automatisk for at regne timerne ud og fordeler dem rigtigt for hver medarbejder. Derudover giver den også et hurtigt og klart opsummering over, hvordan tiden bliver brugt, uden at skulle lave manuelle beregninger.
 
 
 ## Formål
 
 Værktøjet automatiserer de centrale beregninger i forbindelse med timeoversigter:
 
-- Beregning af normtid pr. medarbejder  
-- Planlægningsgrader  
-- Fordeling af timer på UK-koder  
+- Den finder automatisk frem til, hvor mange timer den enkelte medarbejder skal lægge (normtid).
+- Planlægningsgrader: Den viser hurtigt, hvor meget af medarbejderens tid der er planlagt ud.  
+- Automatisk fordeling af timer på de rigtige projektkoder (UK-koder)
 - Automatisk opsummering pr. sektion  
 - Identifikation af datamæssige problemer (DATA ISSUES)  
 - Visuel formatering (trafiklys, talformatering m.m.)
@@ -20,10 +20,10 @@ Værktøjet automatiserer de centrale beregninger i forbindelse med timeoversigt
 
 ## Brugervejledning
 
-For at Copilot Agenten kan behandle din timeoversigt har den brug for to filer som du skal uploade i chatten. 
+For at Copilot Agenten kan behandle din timeoversigt har den brug for to filer som du skal uploade i Copilot chatten. 
 
 ### **1. RUNME.py (Python-behandlingsfil)**  
-Agenten bruger denne fil til at udføre al beregning og formatlogik.
+Agenten bruger denne fil til at udføre alt beregning og formattering.
 
 Download RUNME.py her:
 
