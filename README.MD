@@ -51,7 +51,8 @@ Download vejledningen her:
 3. **Aktiver processen:** Skriv følgende kommando i chatten:
 
 > ### **`Kør timeoversigten.`**
-*OBS:* Vent på at begge filer er færdiguploadet i copilot chatten inden du sender den afsted.
+*OBS:* Vent på at begge filer er færdiguploadet i copilot chatten, inden du sender den afsted.
+
 4. **Vent på behandlingen:** Agenten vil nu automatisk:  
    * Læse begge filer  
    * Afvikle Python-koden  
