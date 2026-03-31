@@ -51,7 +51,7 @@ Download vejledningen her:
 3. **Aktiver processen:** Skriv følgende kommando i chatten:
 
 > ### **`Kør timeoversigten.`**
-
+*OBS:* Vent på at begge filer er færdiguploadet i copilot chatten inden du sender den afsted.
 4. **Vent på behandlingen:** Agenten vil nu automatisk:  
    * Læse begge filer  
    * Afvikle Python-koden  
@@ -68,8 +68,7 @@ Download vejledningen her:
 ---
 
 > [!NOTE]
-> **OBS:** Det kan tage et par minutter for Copilot agenten at generere den fulde timeoversigt. Giv den tid til at færdiggøre beregningerne.
-
+> **OBS:** Det kan tage et par minutter for Copilot agenten at generere den fulde timeoversigt. Giv den tid til at færdiggøre beregningerne. Forlad ikke siden mens den kører.
 
 
 ## Link til Copilot Agenten for automatisk behandling
