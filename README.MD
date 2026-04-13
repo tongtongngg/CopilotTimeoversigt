@@ -21,7 +21,7 @@ Værktøjet automatiserer de centrale beregninger i forbindelse med timeoversigt
 
 ## Brugervejledning
 
-For at Copilot Agenten kan behandle din timeoversigt har den brug for to filer som du skal uploade i Copilot chatten. 
+For at Copilot Agenten kan behandle din timeoversigt har den brug for to filer som du skal installere og uploade i Copilot chatten. 
 
 ### **1. RUNME.py (Python-behandlingsfil)**  
 Agenten bruger denne fil til at udføre alt beregning og formattering.
