@@ -3,7 +3,6 @@
 Dette værktøj er designet til at gøre arbejdet med tidsregistrering langt lettere. Det tager de rå-data fra Fusion og sørger automatisk for at regne timerne ud og fordeler dem rigtigt for hver medarbejder. Derudover giver den også et hurtigt og klart opsummering over, hvordan tiden bliver brugt, uden at skulle lave manuelle beregninger.
 
 **Forarbejdet af:** Mette Andersen, Enhedsøkonomi.  
-**Bidrag:** Enhedsøkonomi.
 
 ## Formål
 
