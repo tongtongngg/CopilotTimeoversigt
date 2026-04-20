@@ -70,7 +70,7 @@ Download vejledningen her:
 >
 > **Behandlingstid:** Det tager typisk et par minutter for agenten at færdiggøre beregningerne til timeoversigten. Forlad ikke siden, før processen er afsluttet.
 >
-> **Platform:** Hvis du oplever fejl med Excel-downloadlinket i Microsoft Teams, sk
+> **Platform:** Hvis du oplever fejl med Excel-downloadlinket i Microsoft Teams, skal du køre agenten direkte i en webbrowser.
 
 ## Link til Copilot Agenten for automatisk behandling
 > **[Copilot Agent link](https://m365.cloud.microsoft/chat/?titleId=T_0fe64bcc-3205-af7a-37d0-1f3927a96023&source=embedded-builder)**
