@@ -66,8 +66,8 @@ Download vejledningen her:
 ---
 
 > [!NOTE]
-> **OBS:** Det kan tage et par minutter for Copilot agenten at generere den fulde timeoversigt. Giv den tid til at færdiggøre beregningerne. Forlad ikke siden mens den kører.
-
+> **OBS:** Det kan tage et par minutter for Copilot-agenten at generere den fulde timeoversigt. Giv den tid til at færdiggøre beregningerne, og forlad ikke siden, mens den arbejder.
+> Copilot kan have problemer med at generere Excel-downloadlinket, hvis den benyttes direkte i Teams. Det anbefales derfor at køre agenten i en webbrowser.
 
 ## Link til Copilot Agenten for automatisk behandling
 > **[Copilot Agent link](https://m365.cloud.microsoft/chat/?titleId=T_0fe64bcc-3205-af7a-37d0-1f3927a96023&source=embedded-builder)**
