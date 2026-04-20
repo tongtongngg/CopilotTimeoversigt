@@ -65,7 +65,6 @@ Download vejledningen her:
     * **Resultat:** Du modtager et direkte download-link til din færdige Excel-fil.
 ---
 
-Markdown
 > [!IMPORTANT]
 > **Bemærk venligst følgende ved generering:**
 >
