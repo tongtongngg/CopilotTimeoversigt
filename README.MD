@@ -65,7 +65,7 @@ Download vejledningen her:
     * **Resultat:** Du modtager et direkte download-link til din færdige Excel-fil.
 ---
 
-> [!VIGTIGT]
+> [!IMPORTANT]
 > **Bemærk venligst følgende ved generering:**
 >
 > **Behandlingstid:** Det tager typisk et par minutter for agenten at færdiggøre beregningerne til timeoversigten. Forlad ikke siden, før processen er afsluttet.
